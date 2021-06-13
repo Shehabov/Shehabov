@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
 <h3 align="center">🚀 Backend Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
-<img width = "30%" align="right" alt="PIC" height="300px" src="https://i.imgur.com/O33NNsY.png" style="border-radius:50%" />
+<img width = "30%" align="right" alt="PIC" height="300px" src="https://i.imgur.com/O33NNsY.png" style="border-radius:50%;" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
