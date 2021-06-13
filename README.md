@@ -38,4 +38,4 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://Shehabov.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
