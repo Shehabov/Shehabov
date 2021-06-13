@@ -25,17 +25,13 @@
    <a href="mailto:Shehab.beram@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
    </a>
-  
   <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-  
     <a href="https://www.kaggle.com/shehabberam" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
    </a>
-  
     <a href="https://www.quora.com/profile/Shehab-Beram" target="_blank">
   <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
-   </a>
- 
+   </a> 
 </div> 
