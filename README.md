@@ -14,12 +14,12 @@
 </div>
 
 
-<div>
-  <h3>Languages:</h3>
-   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
    ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-</div> 
 
 
 
