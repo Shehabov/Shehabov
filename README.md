@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Shehab <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
 <h3 align="center"> Product Manager 🚀 | Machine Learing Engineer 👨🏻‍💻 | Data-driven Leader 📈</h3>
 <div>
-<img src="https://i.imgur.com/hx2kQNq.jpg" width = "300px" align="right" alt="PIC" height="300px"/>
+<img src="https://i.imgur.com/hx2kQNq.jpg" width = "300px" align="right" alt="PIC" height="300px" style="border-radius:50%"/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me: </h3>
   
@@ -15,7 +15,7 @@
 
 
 
-### Languages
+### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -23,7 +23,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-### Technologies
+### Technologies:
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
@@ -31,7 +31,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
-### Certifications
+### Certifications:
 
 <img src="https://images.credly.com/size/680x680/images/4338e594-1e04-4fc4-b71e-3a6d0293e326/MTA-Software_Development_Fundamentals.png" alt="Exam badge" width="80"/><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Exam badge" width="80"/><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="Exam badge" width="80"/><img src="https://static.scrum.org/web/badges/badge-psdi.svg" alt="Exam badge" width="50"/>
 
