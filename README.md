@@ -36,6 +36,6 @@
    </a> 
 </div> 
 
-### Spotify Playing 🎧
+<h3> 🎧 Listen with me: </h3> 
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
