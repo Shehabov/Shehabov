@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/dqK3DgZ.png" width = "90px" align="center" alt="PIC" height="65px"/>
 <h1 align="center">Hey there! I'm Shehab <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
-<h3 align="center">🚀 Backend Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
+<h3 align="center"> Product Manager 🚀 | Machine Learing Engineer 👨🏻‍💻 | Data-driven Leader 📈</h3>
 <div>
 <img src="https://i.imgur.com/hx2kQNq.jpg" width = "300px" align="right" alt="PIC" height="300px"/>
 <div align="left"> 
