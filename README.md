@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dqK3DgZ.png" width = "90px" align="center" alt="PIC" height="60px"/>
+<img src="https://i.imgur.com/dqK3DgZ.png" width = "90px" align="center" alt="PIC" height="65px"/>
 <h1 align="center">Hey there! I'm Shehab <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
 <h3 align="center">🚀 Backend Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
