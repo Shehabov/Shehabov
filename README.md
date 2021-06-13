@@ -22,5 +22,8 @@
 
 <div>
   <h3> 🔗 Reach out to me:</h3>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+   </a>
+    
 </div> 
