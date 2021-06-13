@@ -38,4 +38,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-beta-dusky.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://novatorem-beta-dusky.vercel.app/api/spotify-playing" alt="Shehab Spotify Playing" width="350" />](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c?si=4697564145d249c1)
