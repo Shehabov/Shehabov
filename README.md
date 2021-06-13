@@ -40,4 +40,4 @@
 
 [<img src="zg80ln4vmsc4kux6r4z4sz75c.vercel.app/api/spotify" alt="Shehab Spotify Playing" width="350" />](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://shehabov/novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
