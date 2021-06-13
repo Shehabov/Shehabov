@@ -33,7 +33,7 @@
 
 ### Certifications
 
-<img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Exam badge" width="50"/>
+<img src="https://images.credly.com/size/680x680/images/4338e594-1e04-4fc4-b71e-3a6d0293e326/MTA-Software_Development_Fundamentals.png" alt="Exam badge" width="80"/>
 
 <div>
   <h3> 🔗 Reach out to me:</h3>
