@@ -22,7 +22,7 @@
 
 <div>
   <h3> 🔗 Reach out to me:</h3>
-   <a href="mailto:yourEmail@domain.com" target="_blank">
+   <a href="mailto:Shehab.beram@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
    </a>
   <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank">
