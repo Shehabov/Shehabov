@@ -31,6 +31,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
+### Certifications
+
+<img src="https://docs.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Exam badge" width="100"/>
 
 <div>
   <h3> 🔗 Reach out to me:</h3>
