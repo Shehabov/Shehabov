@@ -17,7 +17,7 @@
 <div>
   <h3> 💡 Top Skills & Technologies:</h3>
   <p>
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"width="50"><img src="https://www.pinclipart.com/picdir/middle/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" width="50">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"width="50"><img src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif" width="50">
   <p>
 </div> 
 
