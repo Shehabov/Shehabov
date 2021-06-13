@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Shehab <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
 <h3 align="center"> Product Manager 🚀 | Machine Learing Engineer 👨🏻‍💻 | Data-driven Leader 📈</h3>
 <div>
-<img src="https://i.imgur.com/hx2kQNq.jpg" width = "300px" align="right" alt="PIC" height="300px" style="border-radius:50%"/>
+<img src="https://i.imgur.com/hx2kQNq.jpg" width = "300px" align="right" alt="PIC" height="300px"/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me: </h3>
   
