@@ -15,9 +15,11 @@
 
 
 <div>
-  <h3> 💡 Top Skills & Technologies:</h3>
+  <h3>Languages:</h3>
   <p>
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"width="50"><img src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif" width="50">
+   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+   ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
   <p>
 </div> 
 
