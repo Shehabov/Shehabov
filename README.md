@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dqK3DgZ.png" width = "90px" align="center" alt="PIC" height="65px"/>
+<img src="https://i.imgur.com/dqK3DgZ.png" width = "80px" align="center" alt="PIC" height="55px"/>
 <h1 align="center">Hey there! I'm Shehab <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
 <h3 align="center"> Product Manager 🚀 | Machine Learing Engineer 👨🏻‍💻 | Data-driven Leader 📈</h3>
 <div>
