@@ -37,5 +37,5 @@
 </div> 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-beta-dusky.vercel.app/api/spotify" alt="Shehab Spotify Playing" width="350" />](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
+[<img src="https://novatorem-shehabov.vercel.app/api/spotify" alt="Shehab Spotify Playing" width="350" />](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
 
