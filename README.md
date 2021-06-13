@@ -38,16 +38,5 @@
 
 <h3> 🎧 Listen with me: </h3> 
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
-
 [![Spotify](https://novatorem-omega-six.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
 
-[![Spotify](https://shehabov.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
-
-[![Spotify](https://zg80ln4vmsc4kux6r4z4sz75c.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
-
-[![Spotify](https://zg80ln4vmsc4kux6r4z4sz75c.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
-
-[![Spotify](https://zg80ln4vmsc4kux6r4z4sz75c.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
-
-[<img src="https://novatorem-omega-six.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
