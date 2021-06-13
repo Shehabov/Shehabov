@@ -8,7 +8,7 @@
   
   - 🎓 &nbsp; Software Engineering Graduate & IEEE Professional Software Engineering Master Qualification Holder.
   - 💼 &nbsp; Professional and Entrepreneurial Experience in Product Design & Software Development. 
-  - 🤖 &nbsp; Learning more about Computer Vision and AI transformation.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - 🤖 &nbsp; Computer Vision and AI transformation Learner.
+  - ⚡ &nbsp; Fun fact: I love playing football and Fifa.  
 </div> 
 </div>
