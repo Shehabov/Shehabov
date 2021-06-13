@@ -6,8 +6,8 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me: </h3>
   
-  - 🎓 &nbsp; Software Engineering Graduate & IEEE Professional Software Engineering Master Qualification Holder.
-  - 💼 &nbsp; Professional and Entrepreneurial Experience in Product Design & Software Development. 
+  - 🎓 &nbsp; Software Engineering Graduate & IEEE PSEM Qualification Holder.
+  - 💼 &nbsp; Professional and Entrepreneurial Experience in Product Design & Development. 
   - 🤖 &nbsp; Computer Vision and AI transformation Learner.
   - ⚡ &nbsp; Fun fact: I love playing football and Fifa.  
 </div> 
