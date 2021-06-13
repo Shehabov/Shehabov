@@ -38,4 +38,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-bay-omega.vercel.app/api/spotify" alt="Shehab Spotify Playing" width="350" />](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
+[<img src="zg80ln4vmsc4kux6r4z4sz75c.vercel.app/api/spotify" alt="Shehab Spotify Playing" width="350" />](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
