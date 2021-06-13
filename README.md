@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! I'm Shehab <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span></h1>
 <h3 align="center">🚀 Backend Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
-<img src="https://i.imgur.com/hx2kQNq.jpg" width = "100px" align="right" alt="PIC" height="300px"/>
+<img src="https://i.imgur.com/hx2kQNq.jpg" width = "400px" align="right" alt="PIC" height="300px"/>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
