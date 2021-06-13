@@ -1,4 +1,5 @@
-<h1 align="center">Hey there! I'm Shehab <div class="tenor-gif-embed" data-postid="19369358" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/elsalla-gif-19369358">Elsalla GIF</a> from <a href="https://tenor.com/search/elsalla-gifs">Elsalla GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script></h1>
+<h1 align="center">Hey there! I'm Shehab</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h3 align="center">🚀 Backend Developer | Open Source ♥ | Competitive Programmer  🚀</h3>
 <div>
 <img src="https://i.imgur.com/hx2kQNq.jpg" width = "30%" align="right" alt="PIC" height="300px"/>
