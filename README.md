@@ -33,7 +33,7 @@
 
 ### Certifications:
 
-<img src="https://images.credly.com/size/680x680/images/4338e594-1e04-4fc4-b71e-3a6d0293e326/MTA-Software_Development_Fundamentals.png" alt="Exam badge" width="80"/><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Exam badge" width="80"/><img src="https://images.credly.com/size/680x680/images/5234a13b-f3e9-4bf3-b51c-3a4dbd56039a/isc2_csslp.png" alt="Exam badge" width="80"/><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="Exam badge" width="80"/><img src="https://static.scrum.org/web/badges/badge-psdi.svg" alt="Exam badge" width="50"/>
+<img src="https://ieeecs-media.computer.org/wp-media/2019/03/01030033/psem_logo.png" alt="Exam badge" width="80"/><img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Exam badge" width="80"/><img src="https://images.credly.com/size/680x680/images/5234a13b-f3e9-4bf3-b51c-3a4dbd56039a/isc2_csslp.png" alt="Exam badge" width="80"/><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="Exam badge" width="80"/><img src="https://static.scrum.org/web/badges/badge-psdi.svg" alt="Exam badge" width="50"/>
 
 <div>
   <h3> 🔗 Reach out to me:</h3>
