@@ -51,7 +51,7 @@
    </a> 
 </div> 
 
-<h3> 🎧 Listen with me: </h3> 
+<h3> 🎧 Visit My Website: </h3> 
 
-[![Spotify](https://novatorem-omega-six.vercel.app/api/spotify)](https://open.spotify.com/user/zg80ln4vmsc4kux6r4z4sz75c)
+https://shehabberam.com/
 
