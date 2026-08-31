@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="490" viewBox="0 0 820 490" role="img" aria-label="Animated terminal: Shehab Beram, Forward Deployed Product Manager">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip0"><rect x="26" y="54" width="0" height="26"><animate attributeName="width" from="0" to="213.5" begin="0.60s" dur="1.05s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip1"><rect x="26" y="80" width="0" height="26"><animate attributeName="width" from="0" to="460.5" begin="1.77s" dur="0.66s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip2"><rect x="26" y="106" width="0" height="26"><animate attributeName="width" from="0" to="584.0" begin="2.49s" dur="0.84s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip4"><rect x="26" y="158" width="0" height="26"><animate attributeName="width" from="0" to="280.0" begin="3.57s" dur="1.40s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip5"><rect x="26" y="184" width="0" height="26"><animate attributeName="width" from="0" to="593.5" begin="5.09s" dur="0.85s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip6"><rect x="26" y="210" width="0" height="26"><animate attributeName="width" from="0" to="527.0" begin="6.00s" dur="0.76s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip8"><rect x="26" y="262" width="0" height="26"><animate attributeName="width" from="0" to="251.5" begin="7.00s" dur="1.25s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip9"><rect x="26" y="288" width="0" height="26"><animate attributeName="width" from="0" to="394.0" begin="8.37s" dur="0.56s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip11"><rect x="26" y="340" width="0" height="26"><animate attributeName="width" from="0" to="365.5" begin="9.17s" dur="1.85s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip12"><rect x="26" y="366" width="0" height="26"><animate attributeName="width" from="0" to="327.5" begin="11.14s" dur="0.46s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip13"><rect x="26" y="392" width="0" height="26"><animate attributeName="width" from="0" to="261.0" begin="11.66s" dur="0.36s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="clip15"><rect x="26" y="444" width="0" height="26"><animate attributeName="width" from="0" to="156.5" begin="12.26s" dur="0.75s" fill="freeze" calcMode="linear"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="488" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="818" height="44" rx="12" fill="#161b22"/>
+  <rect x="1" y="32" width="818" height="12" fill="#161b22"/>
+  <rect x="1" y="1" width="818" height="488" rx="12" fill="url(#glass)"/>
+  <line x1="1" y1="44" x2="819" y2="44" stroke="#30363d" stroke-width="1"/>
+
+  <circle cx="26" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="22" r="6" fill="#27c93f"/>
+  <text x="410" y="27" text-anchor="middle" fill="#8b949e"
+        font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">
+    shehab@fdpm: ~
+  </text>
+
+  <text x="26" y="74" clip-path="url(#clip0)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">shehab</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39c5cf">fdpm</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+  <text x="26" y="100" clip-path="url(#clip1)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#d2a8ff">Shehab Beram</tspan><tspan fill="#e6edf3"> — Forward Deployed Product Manager</tspan></text>
+  <text x="26" y="126" clip-path="url(#clip2)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#8b949e">Ships product where the customer is. Bridges eng ⇄ business.</tspan></text>
+  <text x="26" y="178" clip-path="url(#clip4)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">shehab</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39c5cf">fdpm</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">cat focus.txt</tspan></text>
+  <text x="26" y="204" clip-path="url(#clip5)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">0→1 products · enterprise deployments · AI-native workflows</tspan></text>
+  <text x="26" y="230" clip-path="url(#clip6)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">▸ </tspan><tspan fill="#e6edf3">turns ambiguous field problems into shipped outcomes</tspan></text>
+  <text x="26" y="282" clip-path="url(#clip8)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">shehab</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39c5cf">fdpm</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">ls ~/links</tspan></text>
+  <text x="26" y="308" clip-path="url(#clip9)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#58a6ff">product/  </tspan><tspan fill="#58a6ff">business/  </tspan><tspan fill="#58a6ff">website/  </tspan><tspan fill="#58a6ff">linkedin/</tspan></text>
+  <text x="26" y="360" clip-path="url(#clip11)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">shehab</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39c5cf">fdpm</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">./connect --lets-build</tspan></text>
+  <text x="26" y="386" clip-path="url(#clip12)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">→ </tspan><tspan fill="#8b949e">initializing session... </tspan><tspan fill="#3fb950">ready ✔</tspan></text>
+  <text x="26" y="412" clip-path="url(#clip13)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">→ </tspan><tspan fill="#e3b341">scroll down to explore ↓</tspan></text>
+  <text x="26" y="464" clip-path="url(#clip15)" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#3fb950">shehab</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39c5cf">fdpm</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+  <rect x="170.5" y="450" width="9" height="17" fill="#e6edf3" opacity="0"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" begin="13.13s" repeatCount="indefinite"/></rect>
+</svg>
