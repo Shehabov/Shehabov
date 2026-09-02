@@ -1,21 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="516" height="402" viewBox="0 0 516 402" role="img" aria-label="shehab@fdpm: ~/contributions --calendar">
   <defs>
-    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="glassWrap" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0.04"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
+    <clipPath id="wrapClip"><rect x="18" y="56" width="480" height="330"/></clipPath>
   </defs>
+  
   <rect x="1" y="1" width="514" height="400" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <rect x="1" y="1" width="514" height="42" rx="12" fill="#161b22"/>
   <rect x="1" y="30" width="514" height="12" fill="#161b22"/>
-  <rect x="1" y="1" width="514" height="400" rx="12" fill="url(#glass)"/>
+  <rect x="1" y="1" width="514" height="400" rx="12" fill="url(#glassWrap)"/>
   <line x1="1" y1="42" x2="515" y2="42" stroke="#30363d" stroke-width="1"/>
   <circle cx="25" cy="21" r="6" fill="#ff5f56"/>
   <circle cx="45" cy="21" r="6" fill="#ffbd2e"/>
   <circle cx="65" cy="21" r="6" fill="#27c93f"/>
   <text x="258" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13">shehab@fdpm: ~/contributions --calendar</text>
-  
-  <svg x="18" y="56" width="480" height="330" viewBox="0 0 480 330" preserveAspectRatio="xMidYMid meet" overflow="visible">
+  <svg x="18" y="56" width="480" height="330" viewBox="0 0 480 330" preserveAspectRatio="xMidYMid meet" overflow="hidden">
     <defs>
         <style/>
     </defs>
