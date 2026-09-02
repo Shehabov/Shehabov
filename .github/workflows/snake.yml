@@ -1,38 +1,40 @@
-name: Refresh terminal + impact
+name: Contribution snake
 
 on:
   schedule:
-    - cron: "17 4 * * *"   # daily, re-stamps the terminal date
+    - cron: "23 3 * * *"   # daily
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: refresh-svgs
+  group: snake
   cancel-in-progress: false
 
 jobs:
-  refresh:
+  snake:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Generate snake (themed to match the profile)
+        uses: Platane/snk@v3
         with:
-          node-version: "20"
-      - name: Regenerate SVGs
-        run: |
-          node scripts/gen_terminal.js
-          node scripts/gen_stats.js
-          node scripts/gen_languages.js
+          github_user_name: Shehabov
+          outputs: |
+            snake.svg?color_snake=%2358a6ff&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add terminal.svg impact.svg languages.svg
+          git add snake.svg
           if git diff --staged --quiet; then
             echo "No changes."
           else
-            git commit -m "chore: refresh terminal + impact [skip ci]"
+            git commit -m "chore: refresh contribution snake [skip ci]"
             git push
           fi

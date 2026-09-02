@@ -69,7 +69,7 @@ const WEBSITE="https://www.shehabberam.com/";
 const LINKEDIN="https://www.linkedin.com/in/shehab-beram/";
 const GITHUB="https://github.com/Shehabov";
 const EMAIL="Shehab.beram@hotmail.com";
-const BOOK="https://calendly.com/shehab_beram/30min";
+const BOOK="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab";
 const SITE={
   interim:"https://www.shehabberam.com/interim-head-of-product-manager",
   consulting:"https://www.shehabberam.com/product-and-growth-consulting",
@@ -84,6 +84,64 @@ const A=(url,label)=>`<a href="${url}" target="_blank" rel="noopener noreferrer"
 
 function el(html,cls){const d=document.createElement('div');d.className='line '+(cls||'');d.innerHTML=html;body.appendChild(d);scroll();return d;}
 function scroll(){body.scrollTop=body.scrollHeight;}
+
+// ---- portrait: convert my photo into braille dots, client-side -------------
+const PORTRAIT_SRC = "assets/me.jpg";
+let _pLines = null, _pTried = false;
+function buildPortrait(cb){
+  if(_pTried){ cb(_pLines); return; }
+  const img = new Image();
+  img.onload = () => {
+    try{
+      const cols = 46, rows = Math.max(8, Math.round(cols * (img.height/img.width) * 0.52));
+      const pw = cols*2, ph = rows*4;
+      const cv = document.createElement('canvas'); cv.width=pw; cv.height=ph;
+      const ctx = cv.getContext('2d'); ctx.drawImage(img,0,0,pw,ph);
+      const d = ctx.getImageData(0,0,pw,ph).data;
+      const L = i => 0.299*d[i]+0.587*d[i+1]+0.114*d[i+2];
+      let mn=255,mx=0; for(let i=0;i<d.length;i+=4){const l=L(i); if(l<mn)mn=l; if(l>mx)mx=l;}
+      const norm = v => (mx>mn)?(v-mn)/(mx-mn):0;
+      const bit=[[0x01,0x08],[0x02,0x10],[0x04,0x20],[0x40,0x80]];
+      const lines=[];
+      for(let cy=0; cy<rows; cy++){
+        let line='';
+        for(let cx=0; cx<cols; cx++){
+          let b=0;
+          for(let ry=0; ry<4; ry++) for(let rx=0; rx<2; rx++){
+            const v = norm(L(((cy*4+ry)*pw+(cx*2+rx))*4));
+            if((1-v) > 0.52) b |= bit[ry][rx];   // darker pixel => dot on
+          }
+          line += String.fromCharCode(0x2800 + b);
+        }
+        lines.push(line.replace(/⠀+$/,''));
+      }
+      _pLines = lines;
+    }catch(e){ _pLines = null; }
+    _pTried = true; cb(_pLines);
+  };
+  img.onerror = () => { _pTried = true; _pLines = null; cb(null); };
+  img.src = PORTRAIT_SRC;
+}
+const FALLBACK_AVATAR = [
+  "       ▄▄▓▓▓▓▓▓▓▓▄▄       ",
+  "     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓     ",
+  "    ▓▓▓ ⌐▨▨▨▨▨▨▨▨⌐ ▓▓▓    ",
+  "   ▟▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▙   ",
+  "   ▓▓▓  ◕        ◕  ▓▓▓   ",
+  "   ▓▓▓▖      ▿      ▗▓▓▓   ",
+  "   ▝▓▓▓▖   ╲____╱   ▗▓▓▘   ",
+  "     ▓▓▓▒▒▒▒▒▒▒▒▒▒▒▓▓▓     ",
+  "      ▀▜▓▓▓▓▓▓▓▓▓▓▜▀      ",
+];
+function showPortrait(withNote){
+  buildPortrait(lines=>{
+    const art = (lines && lines.length) ? lines : FALLBACK_AVATAR;
+    art.forEach(l=>el('<span class="cyn">'+l.replace(/</g,'&lt;')+'</span>'));
+    el('<span class="pur">Shehab Beram</span> <span class="muted">· Forward Deployed Product Manager</span>');
+    if(withNote && !(lines && lines.length))
+      el('<span class="muted">(add docs/assets/me.jpg to render the real me in dots)</span>');
+  });
+}
 
 const BANNER=
 `  ___ _  _ ___ _  _ ___ ___   ___ ___ ___ ___ __  __
@@ -101,7 +159,7 @@ const banner=()=>{
 const COMMANDS={
   help(){
     const rows=[
-      ['help','show this list'],['about','who is Shehab'],['impact','the numbers from the field'],
+      ['help','show this list'],['about','who is Shehab'],['me','my face, in dots'],['impact','the numbers from the field'],
       ['neofetch','system-style summary'],['skills','the toolbox'],['projects','pre-AI products & builds'],
       ['products','AI-era live products'],['services','how I can help you'],['book','grab a 1:1 product call'],
       ['social','all my links'],['website','open shehabberam.com'],['linkedin','open LinkedIn'],
@@ -183,18 +241,19 @@ const COMMANDS={
   github(){el('<span class="muted">opening </span>'+A(GITHUB,GITHUB)+' <span class="muted">…</span>');open(GITHUB);},
   contact(){el('<span class="grn">get in touch</span>');el('  '+A(LINKEDIN,'LinkedIn DM')+' <span class="muted">(fastest)</span>');el('  <span class="muted">email </span>'+A('mailto:'+EMAIL,EMAIL));},
   resume(){el('<span class="cyn">"I embed where the customer is, and ship the thing that actually moves the needle."</span>');},
+  me(){ el('<span class="grn">rendering me in dots...</span>'); showPortrait(true); },
   banner(){banner();},
   clear(){body.innerHTML='';},
   echo(a){el(a.join(' ')||'&nbsp;');},
   pwd(){el('/home/shehab');},
-  ls(){el('<span class="blu">about  projects  products  skills  social  contact</span>');},
+  ls(){el('<span class="blu">me  about  impact  projects  products  skills  services  social  contact</span>');},
   date(){el(new Date().toString());},
   sudo(){el('<span class="red">nope. i\'m already root of my own roadmap.</span> 🙂');},
   whoami(){this.about();},
 };
 const ALIASES={'?':'help','h':'help','ls -la':'ls','open':'website','links':'social','cv':'resume',
   'fetch':'neofetch','consulting':'services','coaching':'services','hire':'services','work':'services',
-  'call':'book','stats':'impact','numbers':'impact'};
+  'call':'book','stats':'impact','numbers':'impact','portrait':'me','avatar':'me','whoami':'about'};
 
 function run(raw){
   const input=raw.trim();
@@ -235,14 +294,30 @@ const boot=[
   ['','','welcome to <span class="grn">shehab-os</span> 🚀'],
   ['','','&nbsp;'],
 ];
-let bi=0;
-(function bootStep(){
-  if(bi<boot.length){
-    const [pfx,cls,txt]=boot[bi++];
-    el(`<span class="${cls}">${pfx}</span><span class="muted">${txt}</span>`);
-    setTimeout(bootStep, 220);
-  } else { banner(); newPrompt(); }
-})();
+function runBoot(){
+  let bi=0;
+  (function bootStep(){
+    if(bi<boot.length){
+      const [pfx,cls,txt]=boot[bi++];
+      el(`<span class="${cls}">${pfx}</span><span class="muted">${txt}</span>`);
+      setTimeout(bootStep, 220);
+    } else { banner(); newPrompt(); }
+  })();
+}
+// Show the dot-portrait first if the photo is present, then boot. Never blocks:
+// if there is no photo (or it is slow), boot starts on its own.
+let _booted=false;
+function startOnce(withPortrait){
+  if(_booted) return; _booted=true;
+  if(withPortrait){
+    _pLines.forEach(l=>el('<span class="cyn">'+l.replace(/</g,'&lt;')+'</span>'));
+    el('<span class="pur">Shehab Beram</span> <span class="muted">· type </span><span class="pur">me</span><span class="muted"> to see this again</span>');
+    el('&nbsp;');
+  }
+  runBoot();
+}
+buildPortrait(lines=>startOnce(!!(lines && lines.length)));
+setTimeout(()=>startOnce(false), 1400);   // safety net if the image hangs
 </script>
 </body>
 </html>

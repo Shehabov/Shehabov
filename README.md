@@ -22,7 +22,7 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 
 <!-- ░░ PRIMARY CTAs ░░ -->
 <a href="https://shehabov.github.io/Shehabov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%96%B6_Launch_the_interactive_terminal-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Launch interactive terminal"></a>
-<a href="https://calendly.com/shehab_beram/30min" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-3fb950?style=for-the-badge&labelColor=0d1117" alt="Book a call"></a>
+<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-3fb950?style=for-the-badge&labelColor=0d1117" alt="Book a call"></a>
 
 <br/><br/>
 
@@ -36,9 +36,7 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 <br/><br/>
 
 <!-- ░░ REDIRECT BUTTONS ░░ -->
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%9A%80_See_my_Product_side-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff" alt="Product side"></a>
-<a href="https://www.shehabberam.com/product-and-growth-consulting" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%92%BC_See_my_Business_side-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950" alt="Business side"></a>
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-0d1117?style=for-the-badge&labelColor=0d1117&color=d2a8ff" alt="Website"></a>
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Visit_my_Website-0d1117?style=for-the-badge&labelColor=0d1117&color=d2a8ff" alt="Website"></a>
 <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
@@ -47,15 +45,20 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 
 ## 👋 Hey, I'm Shehab
 
-I'm a product manager who would rather be in the room where the product is breaking, sitting next to the frustrated customer, than reading about it in a status report later. 🛰️
+Product person who would rather be in the room where the product is breaking than read about it in a status report later.
 
-- 🧩 **I do the whole arc.** Discovery, strategy, specs, delivery, and the awkward trade-offs nobody wants to own.
-- 🤖 **AI-native, not AI-flavored.** I build with LLMs inside the workflow, not sprinkled on top for the demo.
-- 🗣️ **I translate for a living.** "The customer is annoyed" becomes a roadmap engineering can actually ship.
-- 📈 **I care about the number that moves.** Activation, retention, revenue, the boring metrics that pay the bills.
-- ☕ **Right now:** shipping 0 to 1, coaching PMs and founders, and probably rewriting a PRD as you read this.
+```console
+$ shehab --how-i-work
+  the whole arc ..: discovery, strategy, specs, delivery, the ugly trade-offs
+  ai-native ......: LLMs inside the workflow, not bolted on for the demo
+  translator .....: "the customer is annoyed" becomes a roadmap eng can ship
+  metrics-first ..: activation, retention, revenue, the stuff that pays the bills
+  right now ......: shipping 0 to 1, coaching PMs and founders, rewriting a PRD
 
-> Interim Head of Product, growth consultant, and coach. 15+ launches, $4M+ generated, 6M+ humans impacted. 🚀
+$ shehab --tldr
+  interim head of product · growth consultant · coach
+  15+ launches · $4M+ generated · 6M+ humans impacted
+```
 
 ---
 
@@ -118,6 +121,7 @@ I'm a product manager who would rather be in the room where the product is break
 <td valign="top" width="33%">
 
 ### 🚀 Pre-AI Products
+`2018 - 2022`
 
 Products and apps I designed and shipped.
 
@@ -133,6 +137,7 @@ Products and apps I designed and shipped.
 <td valign="top" width="33%">
 
 ### 🧠 ML & Data
+`2021 - Now`
 
 Where I got my hands dirty with models.
 
@@ -148,6 +153,7 @@ Where I got my hands dirty with models.
 <td valign="top" width="33%">
 
 ### 🤖 AI-Era Live Products
+`2023 - Now`
 
 The next chapter, built AI-native.
 
@@ -177,12 +183,11 @@ AI products with the model in the workflow, not bolted on for the demo. Currentl
 
 <br/><br/>
 
-#### 🧑‍💻 GitHub coding activity
+<img src="./languages.svg" alt="Languages across my repositories" width="840">
 
-<!-- Isometric commit calendar, auto-generated daily by lowlighter/metrics (.github/workflows/metrics.yml) -->
-<img src="./metrics.isocalendar.svg" alt="Isometric commit calendar" width="560">
+<br/><br/>
 
-<sub>Most of my product work lives off GitHub, so this stays quiet. It updates itself daily.</sub>
+<!-- SNAKE_SLOT: enabled once the snake workflow has generated the file -->
 
 </div>
 
@@ -192,7 +197,7 @@ AI products with the model in the workflow, not bolted on for the demo. Currentl
 
 ### Let's build something worth deploying. 🚀
 
-<a href="https://calendly.com/shehab_beram/30min" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-3fb950?style=for-the-badge&labelColor=0d1117"></a>
+<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-3fb950?style=for-the-badge&labelColor=0d1117"></a>
 <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_shehabberam.com-d2a8ff?style=for-the-badge&labelColor=0d1117"></a>
 <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
