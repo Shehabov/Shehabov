@@ -35,7 +35,7 @@ jobs:
       - name: Speed up + hide the stack bar, then wrap in terminal chrome
         run: |
           sed -i 's/[0-9]\+ms/5000ms/g; s/\.u{/.u{display:none;/g' snake_raw.svg
-          node scripts/wrap_terminal.js snake_raw.svg snake.svg "shehab@fdpm: ~/contributions --snake"
+          node scripts/wrap_terminal.js snake_raw.svg snake.svg "shehab@fdpm: ~/contributions --snake" flat
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
