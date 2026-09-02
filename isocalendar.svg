@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="372" viewBox="0 0 516 372" role="img" aria-label="Isometric commit calendar">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="514" height="370" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="514" height="42" rx="12" fill="#161b22"/>
+  <rect x="1" y="30" width="514" height="12" fill="#161b22"/>
+  <rect x="1" y="1" width="514" height="370" rx="12" fill="url(#glass)"/>
+  <line x1="1" y1="42" x2="515" y2="42" stroke="#30363d" stroke-width="1"/>
+  <circle cx="25" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="21" r="6" fill="#27c93f"/>
+  <text x="258" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13">shehab@fdpm: ~/contributions --calendar</text>
+  
+  <text x="258" y="180" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="14" fill="#8b949e">isometric commit calendar</text><text x="258" y="204" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="12" fill="#58a6ff">generating on first workflow run...</text>
+</svg>
