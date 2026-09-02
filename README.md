@@ -21,8 +21,6 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 <!-- ░░ PRIMARY CTA ░░ -->
 <a href="https://shehabov.github.io/Shehabov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%96%B6_Launch_the_interactive_terminal-58a6ff?style=for-the-badge&labelColor=021449" alt="Launch interactive terminal"></a>
 
-<br/><br/>
-
 <!-- ░░ SIGNAL BADGES ░░ -->
 <img src="https://komarev.com/ghpvc/?username=Shehabov&label=Profile+views&color=58a6ff&style=for-the-badge" alt="Profile views">
 <img src="https://img.shields.io/github/followers/Shehabov?label=Followers&style=for-the-badge&color=39c5cf&logo=github&logoColor=white" alt="Followers">
@@ -201,11 +199,11 @@ Automations that put AI to work.
 
 <img src="./impact.svg" alt="Impact in the field" width="840">
 
-<br/><br/>
+<br/>
 
 <img src="./languages.svg" alt="Languages across my repositories" width="840">
 
-<br/><br/>
+<br/>
 
 <!-- Contributions: isometric calendar (left) + snake (right), both auto-generated -->
 <table>
@@ -232,8 +230,6 @@ Automations that put AI to work.
 </a>
 
 <sub>👆 the whole story, services, and results live on <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><b>shehabberam.com</b></a></sub>
-
-<br/><br/>
 
 <a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Call-21EA9D?style=for-the-badge&labelColor=021449" alt="Book a 1:1 call"></a>
 <a href="https://wa.me/905516893871?text=Hi%20Shehab%2C%20I%20found%20you%20on%20GitHub%20and%20wanted%20to%20connect." target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
