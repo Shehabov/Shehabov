@@ -60,15 +60,16 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white">
+<img src="https://img.shields.io/badge/Claude_Design-D97757?style=for-the-badge&logo=claude&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTUuMDQyIDE1LjE2NWEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyIDIuNTIzQTIuNTI4IDIuNTI4IDAgMCAxIDAgMTUuMTY1YTIuNTI3IDIuNTI3IDAgMCAxIDIuNTIyLTIuNTJoMi41MnYyLjUyek02LjMxMyAxNS4xNjVhMi41MjcgMi41MjcgMCAwIDEgMi41MjEtMi41MiAyLjUyNyAyLjUyNyAwIDAgMSAyLjUyMSAyLjUydjYuMzEzQTIuNTI4IDIuNTI4IDAgMCAxIDguODM0IDI0YTIuNTI4IDIuNTI4IDAgMCAxLTIuNTIxLTIuNTIydi02LjMxM3pNOC44MzQgNS4wNDJhMi41MjggMi41MjggMCAwIDEtMi41MjEtMi41MkEyLjUyOCAyLjUyOCAwIDAgMSA4LjgzNCAwYTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIxIDIuNTIydjIuNTJIOC44MzR6TTguODM0IDYuMzEzYTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIxIDIuNTIxIDIuNTI4IDIuNTI4IDAgMCAxLTIuNTIxIDIuNTIxSDIuNTIyQTIuNTI4IDIuNTI4IDAgMCAxIDAgOC44MzRhMi41MjggMi41MjggMCAwIDEgMi41MjItMi41MjFoNi4zMTJ6TTE4Ljk1NiA4LjgzNGEyLjUyOCAyLjUyOCAwIDAgMSAyLjUyMi0yLjUyMUEyLjUyOCAyLjUyOCAwIDAgMSAyNCA4LjgzNGEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMiAyLjUyMWgtMi41MjJWOC44MzR6TTE3LjY4OCA4LjgzNGEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMyAyLjUyMSAyLjUyNyAyLjUyNyAwIDAgMS0yLjUyLTIuNTIxVjIuNTIyQTIuNTI3IDIuNTI3IDAgMCAxIDE1LjE2NSAwYTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIzIDIuNTIydjYuMzEyek0xNS4xNjUgMTguOTU2YTIuNTI4IDIuNTI4IDAgMCAxIDIuNTIzIDIuNTIyQTIuNTI4IDIuNTI4IDAgMCAxIDE1LjE2NSAyNGEyLjUyNyAyLjUyNyAwIDAgMS0yLjUyLTIuNTIydi0yLjUyMmgyLjUyek0xNS4xNjUgMTcuNjg4YTIuNTI3IDIuNTI3IDAgMCAxLTIuNTItMi41MjMgMi41MjYgMi41MjYgMCAwIDEgMi41Mi0yLjUyaDYuMzEzQTIuNTI3IDIuNTI3IDAgMCAxIDI0IDE1LjE2NWEyLjUyOCAyLjUyOCAwIDAgMS0yLjUyMiAyLjUyM2gtNi4zMTN6Ii8%2BPC9zdmc%2B">
 </p>
 
 **📊 Analytics & Insight**
 
 <p>
-<img src="https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=amplitude&logoColor=white">
+<img src="https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTI4LjIsMTQuNEMyOCwxNC4yLDI3LjgsMTQsMjcuNiwxNGMtMC4yLDAtMC4zLDAuMS0wLjUsMC4yYy0xLjcsMS4zLTQsNy01LjksMTQuNWwxLjcsMAoJCWMzLjMsMCw2LjgsMC4xLDEwLjIsMC4xYy0wLjktMy40LTEuNy02LjQtMi41LTguN0MyOS40LDE2LjYsMjguNywxNS4xLDI4LjIsMTQuNHoiLz48cGF0aCBkPSJNMzIsMEMxNC4zLDAsMCwxNC4zLDAsMzJzMTQuMywzMiwzMiwzMnMzMi0xNC4zLDMyLTMyUzQ5LjcsMCwzMiwweiBNNTUsMzIuNkw1NSwzMi42YzAsMC0wLjEsMC4xLTAuMSwwLjFsMCwwCgkJbC0wLjEsMGwtMC4xLDBsMCwwYy0wLjIsMC4xLTAuNSwwLjItMC44LDAuMkgzOC44YzAuMSwwLjUsMC4zLDEuMSwwLjQsMS43YzAuOCwzLjYsMywxMy4xLDUuNCwxMy4xaDAuMWgwaDBjMS44LDAsMi44LTIuNiw0LjgtOC40CgkJbDAtMC4xYzAuMy0wLjksMC43LTIsMS4xLTMuMWwwLjEtMC4zbDAsMGMwLjEtMC40LDAuNS0wLjYsMC45LTAuNWMwLjQsMC4xLDAuNiwwLjUsMC41LDAuOWwwLDBMNTIsMzYuNmMtMC4yLDAuNy0wLjQsMS42LTAuNywyLjcKCQljLTEuMiw1LjEtMy4xLDEyLjctNy44LDEyLjdoMGMtMy4xLDAtNC45LTQuOS01LjctN2MtMS41LTMuOS0yLjYtOC4xLTMuNi0xMi4xaC0xNGwtMi45LDkuM2wwLDBjLTAuNCwwLjctMS4zLDAuOS0yLDAuNQoJCWMtMC40LTAuMy0wLjctMC43LTAuNy0xLjJ2LTAuMWwwLjItMWMwLjQtMi40LDAuOS00LjksMS40LTcuNGgtNS45bDAsMGMtMS4xLTAuMi0xLjktMS4xLTEuOS0yLjJjMC0xLjEsMC44LTIsMS44LTIuMgoJCWMwLjIsMCwwLjUsMCwwLjcsMGgwLjNjMS45LDAsMy44LDAuMSw2LDAuMWMzLjEtMTIuNSw2LjYtMTguOCwxMC42LTE4LjljNC4yLDAsNy40LDkuNyw5LjksMTkuMWwwLDBjNS4yLDAuMSwxMC43LDAuMywxNiwwLjYKCQlsMC4yLDBjMC4xLDAsMC4yLDAsMC4zLDBoMGgwaDBjMC45LDAuMiwxLjUsMS4xLDEuMywyQzU1LjUsMzIsNTUuMywzMi4zLDU1LDMyLjZ6Ii8%2BPC9zdmc%2B">
 <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
 <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white">
@@ -91,12 +92,22 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 **🧠 Ways of Working**
 
 <p>
-<img src="https://img.shields.io/badge/Product_Discovery-0d1117?style=for-the-badge&color=3fb950">
-<img src="https://img.shields.io/badge/Roadmapping-0d1117?style=for-the-badge&color=58a6ff">
+<img src="https://img.shields.io/badge/Product_Strategy-0d1117?style=for-the-badge&color=3fb950">
+<img src="https://img.shields.io/badge/Product_Discovery-0d1117?style=for-the-badge&color=58a6ff">
+<img src="https://img.shields.io/badge/User_Research-0d1117?style=for-the-badge&color=d2a8ff">
+<img src="https://img.shields.io/badge/Customer_Interviews-0d1117?style=for-the-badge&color=e3b341">
+<img src="https://img.shields.io/badge/Roadmapping-0d1117?style=for-the-badge&color=39c5cf">
+<img src="https://img.shields.io/badge/Prioritization_(RICE)-0d1117?style=for-the-badge&color=ff7b72">
+<img src="https://img.shields.io/badge/PRDs_%26_Specs-0d1117?style=for-the-badge&color=3fb950">
+<img src="https://img.shields.io/badge/Go--to--Market-0d1117?style=for-the-badge&color=58a6ff">
 <img src="https://img.shields.io/badge/A%2FB_Testing-0d1117?style=for-the-badge&color=d2a8ff">
-<img src="https://img.shields.io/badge/OKRs-0d1117?style=for-the-badge&color=e3b341">
-<img src="https://img.shields.io/badge/Agile_%26_Scrum-0d1117?style=for-the-badge&color=39c5cf">
-<img src="https://img.shields.io/badge/Stakeholder_Mgmt-0d1117?style=for-the-badge&color=ff7b72">
+<img src="https://img.shields.io/badge/Experimentation-0d1117?style=for-the-badge&color=e3b341">
+<img src="https://img.shields.io/badge/North_Star_Metrics-0d1117?style=for-the-badge&color=39c5cf">
+<img src="https://img.shields.io/badge/OKRs-0d1117?style=for-the-badge&color=ff7b72">
+<img src="https://img.shields.io/badge/Competitive_Analysis-0d1117?style=for-the-badge&color=3fb950">
+<img src="https://img.shields.io/badge/Agile_%26_Scrum-0d1117?style=for-the-badge&color=58a6ff">
+<img src="https://img.shields.io/badge/Stakeholder_Mgmt-0d1117?style=for-the-badge&color=d2a8ff">
+<img src="https://img.shields.io/badge/Product_Vision-0d1117?style=for-the-badge&color=e3b341">
 </p>
 
 ---
@@ -209,8 +220,16 @@ Automations that put AI to work.
 
 <sub>30 minutes, no pitch. Worst case, you walk away with free advice.</sub>
 
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer" title="See the full story on shehabberam.com">
+  <img src="./assets/website-hero.png" alt="Building Impactful Digital Products, see more at shehabberam.com" width="720">
+</a>
+
+<sub>👆 the whole story, services, and results live on <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><b>shehabberam.com</b></a></sub>
+
+<br/>
+
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_shehabberam.com-d2a8ff?style=for-the-badge&labelColor=0d1117"></a>
 <a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Grab_30_minutes_with_me-3fb950?style=for-the-badge&labelColor=0d1117"></a>
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_shehabberam.com-d2a8ff?style=for-the-badge&labelColor=0d1117"></a>
 <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D"></a>
 
 </div>
