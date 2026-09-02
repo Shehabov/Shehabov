@@ -63,7 +63,7 @@ const lines = [
   L([['┌─ ', C.gray], ['shehab', C.green], ['@', C.gray], ['fdpm', C.cyan]]),
   L([['│  role   ', C.gray], ['Forward Deployed Product Manager', C.white]]),
   L([['│  focus  ', C.gray], ['0→1 products · enterprise · AI-native workflows', C.white]]),
-  L([['│  uptime ', C.gray], ['shipping since 2020', C.white]]),
+  L([['│  uptime ', C.gray], ['shipping since 2017', C.white]]),
   L([['└─ ', C.gray], ['bridges eng ', C.gray], ['⇄', C.yellow], [' business ', C.gray], ['⇄', C.yellow], [' the user', C.cyan]]),
   BLANK,
   L([...P(), ['./connect --lets-build', C.white]], { cmd: true }),
