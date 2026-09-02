@@ -7,15 +7,16 @@
 <meta name="description" content="Shehab Beram · Forward Deployed Product Manager. An interactive terminal.">
 <style>
   :root{
-    --bg:#010409; --win:#0d1117; --bar:#161b22; --border:#30363d;
-    --green:#3fb950; --cyan:#39c5cf; --blue:#58a6ff; --gray:#8b949e;
-    --white:#e6edf3; --purple:#d2a8ff; --yellow:#e3b341; --red:#ff7b72;
+    /* Brand palette: deep navy #021449 + mint #21EA9D */
+    --bg:#010c2e; --win:#021449; --bar:#0a1f5e; --border:#1b3a7a;
+    --green:#21EA9D; --cyan:#4fd6e0; --blue:#5a9dff; --gray:#8f9cc4;
+    --white:#eaf1ff; --purple:#c9a9ff; --yellow:#ffd166; --red:#ff8a80;
   }
   *{box-sizing:border-box}
   html,body{height:100%}
   body{
     margin:0; background:
-      radial-gradient(1200px 600px at 50% -10%, #14203a 0%, transparent 60%),
+      radial-gradient(1200px 600px at 50% -10%, #0e2f7a 0%, transparent 60%),
       var(--bg);
     color:var(--white);
     font:15px/1.6 ui-monospace,SFMono-Regular,Consolas,"DejaVu Sans Mono",Menlo,monospace;
@@ -31,12 +32,12 @@
     display:flex; align-items:center; padding:0 14px; gap:8px; flex:0 0 auto;
   }
   .dot{width:12px;height:12px;border-radius:50%}
-  .r{background:#ff5f56}.y{background:#ffbd2e}.g{background:#27c93f}
+  .r{background:#ff5f56}.y{background:#ffbd2e}.g{background:#21EA9D}
   .title{flex:1;text-align:center;color:var(--gray);font-size:13px;margin-right:44px}
   .body{padding:18px 20px;overflow-y:auto;flex:1 1 auto}
   .body::-webkit-scrollbar{width:10px}
-  .body::-webkit-scrollbar-thumb{background:#21262d;border-radius:8px}
-  a{color:var(--blue);text-decoration:none;border-bottom:1px dotted #3a557f}
+  .body::-webkit-scrollbar-thumb{background:#0a1f5e;border-radius:8px}
+  a{color:var(--blue);text-decoration:none;border-bottom:1px dotted #2a4a8f}
   a:hover{color:var(--cyan);border-bottom-color:var(--cyan)}
   .line{white-space:pre-wrap;word-break:break-word}
   .muted{color:var(--gray)} .grn{color:var(--green)} .cyn{color:var(--cyan)}
@@ -77,6 +78,17 @@ const SITE={
   training:"https://www.shehabberam.com/private-training-and-group-coaching",
   speaking:"https://www.shehabberam.com/speaking",
   teardown:"https://www.shehabberam.com/product-teardown-and-audit",
+};
+// project registry for the `info <name>` query command
+const PROJECTS={
+  heartly:["Heartly","heart-attack risk predictor (ML + web)","pre-AI · 2018-2022","https://github.com/Shehabov/Heartly"],
+  omnifood:["Omnifood","responsive food-subscription product site","pre-AI · 2018-2022","https://github.com/Shehabov/omnifood-website"],
+  peer4u:["Peer4u","peer-support mobile app (Java)","pre-AI · 2018-2022","https://github.com/Shehabov/Peer4u-Mobile-app"],
+  coindesk:["Coindesk Dashboard","live crypto dashboard","pre-AI · 2018-2022","https://github.com/Shehabov/Coindesk-dashboard"],
+  satellite:["Satellite Alert System","real-time alert system","pre-AI · 2018-2022","https://github.com/Shehabov/Satellite-Alert-System"],
+  "breast-cancer":["Breast Cancer Detection","YOLOv8 detection model","ML & data · 2021-now","https://github.com/Shehabov/Breast-Cancer-Detection"],
+  sentiment:["Review Sentiment Analysis","NLP on restaurant reviews","ML & data · 2021-now","https://github.com/Shehabov/Resaurant-Review-Sentiment-Analysis"],
+  "competitor-intel":["Competitor Intelligence","weekly AI competitor reports on n8n: Apify scrapers + OpenAI, delivered as a Google Doc + PDF by email","AI workflows · 2024-now","https://github.com/Shehabov/competitor-intelligence-n8n"],
 };
 
 const body=document.getElementById('body');
@@ -166,7 +178,7 @@ const COMMANDS={
   help(){
     const rows=[
       ['help','show this list'],['about','who is Shehab'],['me','my face, in dots'],['impact','the numbers from the field'],
-      ['neofetch','system-style summary'],['skills','the toolbox'],['projects','pre-AI products & builds'],
+      ['neofetch','system-style summary'],['skills','the toolbox'],['projects','browse my projects'],['info','dig into one project'],
       ['products','AI-era live products'],['services','how I can help you'],['book','grab a 1:1 product call'],
       ['social','all my links'],['website','open shehabberam.com'],['linkedin','open LinkedIn'],
       ['github','open GitHub'],['contact','get in touch'],['resume','one-line pitch'],
@@ -227,7 +239,18 @@ const COMMANDS={
     el('  '+A('https://github.com/Shehabov/Peer4u-Mobile-app','Peer4u')+' <span class="muted">peer-support mobile app (Java)</span>');
     el('  '+A('https://github.com/Shehabov/Coindesk-dashboard','Coindesk Dashboard')+' <span class="muted">live crypto dashboard</span>');
     el('  '+A('https://github.com/Shehabov/Satellite-Alert-System','Satellite Alert System')+'');
-    el('<span class="muted">  run </span><span class="pur">github</span><span class="muted"> to see them all.</span>');
+    el('<span class="muted">  type </span><span class="pur">info &lt;name&gt;</span><span class="muted"> to dig into any project, e.g. </span><span class="pur">info heartly</span>');
+  },
+  info(a){
+    const raw=(a||[]).join(' ').toLowerCase().trim();
+    if(!raw){ el('<span class="muted">usage: </span><span class="cyn">info &lt;project&gt;</span><span class="muted"> · try </span><span class="pur">info heartly</span><span class="muted"> or </span><span class="pur">info competitor-intel</span>'); return; }
+    const q=raw.replace(/\s+/g,'-');
+    const key=Object.keys(PROJECTS).find(k=>k===q||k.includes(q)||PROJECTS[k][0].toLowerCase().includes(raw));
+    if(!key){ el('<span class="red">no project "'+raw+'"</span> <span class="muted">· run </span><span class="pur">projects</span><span class="muted"> to list them</span>'); return; }
+    const [name,desc,era,url]=PROJECTS[key];
+    el('<span class="grn">▸ </span><span class="pur">'+name+'</span> <span class="muted">· '+era+'</span>');
+    el('  '+desc);
+    el('  '+A(url,url.replace('https://','')));
   },
   products(){
     el('<span class="grn">AI-era live products</span>');

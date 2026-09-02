@@ -31,7 +31,7 @@ jobs:
         with:
           github_user_name: Shehabov
           outputs: |
-            snake_raw.svg?color_snake=%2358a6ff&color_dots=%2321262d,%230e4429,%23006d32,%2326a641,%2339d353
+            snake_raw.svg?color_snake=%235a9dff&color_dots=%230a1f5e,%230c3b2e,%2312654e,%231aa87e,%2321EA9D
       - name: Speed up + hide the stack bar, then wrap in terminal chrome
         run: |
           sed -i 's/[0-9]\+ms/5000ms/g; s/\.u{/.u{display:none;/g' snake_raw.svg

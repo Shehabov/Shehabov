@@ -10,18 +10,19 @@ const fs = require('fs');
 const path = require('path');
 
 // ---- palette ---------------------------------------------------------------
+// Brand palette: deep navy #021449 + mint #21EA9D
 const C = {
-  bg:     '#0d1117',
-  bar:    '#161b22',
-  border: '#30363d',
-  green:  '#3fb950',
-  cyan:   '#39c5cf',
-  blue:   '#58a6ff',
-  gray:   '#8b949e',
-  white:  '#e6edf3',
-  purple: '#d2a8ff',
-  yellow: '#e3b341',
-  red:    '#ff7b72',
+  bg:     '#021449',
+  bar:    '#0a1f5e',
+  border: '#1b3a7a',
+  green:  '#21EA9D',
+  cyan:   '#4fd6e0',
+  blue:   '#5a9dff',
+  gray:   '#8f9cc4',
+  white:  '#eaf1ff',
+  purple: '#c9a9ff',
+  yellow: '#ffd166',
+  red:    '#ff8a80',
 };
 
 // ---- layout ----------------------------------------------------------------
@@ -137,7 +138,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
 
   <circle cx="26" cy="22" r="6" fill="#ff5f56"/>
   <circle cx="46" cy="22" r="6" fill="#ffbd2e"/>
-  <circle cx="66" cy="22" r="6" fill="#27c93f"/>
+  <circle cx="66" cy="22" r="6" fill="#21EA9D"/>
   <text x="${W / 2}" y="27" text-anchor="middle" fill="${C.gray}"
         font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">shehab@fdpm: ~ · zsh</text>
 

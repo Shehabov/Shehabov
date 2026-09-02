@@ -71,7 +71,7 @@ const out = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
   <line x1="1" y1="${BAR_H}" x2="${W - 1}" y2="${BAR_H}" stroke="${C.border}" stroke-width="1"/>
   <circle cx="25" cy="21" r="6" fill="#ff5f56"/>
   <circle cx="45" cy="21" r="6" fill="#ffbd2e"/>
-  <circle cx="65" cy="21" r="6" fill="#27c93f"/>
+  <circle cx="65" cy="21" r="6" fill="#21EA9D"/>
   <text x="${W / 2}" y="26" text-anchor="middle" fill="${C.gray}" font-family="${MONO}" font-size="13">${esc(title)}</text>
   ${content}
 </svg>
