@@ -105,9 +105,28 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 
 ## 🗂️ Projects
 
+<!-- ░░ HIGHLIGHT: what I'm building now ░░ -->
+<table width="100%">
+<tr><td align="center">
+
+## 🤖 AI-Era Live Products &nbsp; <code>2023 → Now</code>
+
+**The next chapter, built AI-native.** Products with the model living inside the workflow, not bolted on for the demo. Heads-down in the field, shipping. 🛠️
+
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%97%94_COMING_SOON-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Coming soon"></a>
+&nbsp;
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Get_the_drop_first_%E2%86%92-0d1117?style=for-the-badge&labelColor=0d1117&color=d2a8ff" alt="Get the drop first"></a>
+
+</td></tr>
+</table>
+
+<br>
+
+<sub>The track record that got me here 👇</sub>
+
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### 🚀 Pre-AI Products
 `2018 - 2022`
@@ -123,7 +142,7 @@ Products and apps I designed and shipped.
 <sub>Early web builds: <a href="https://github.com/Shehabov/Netflix-Website" target="_blank" rel="noopener noreferrer">Netflix</a>, <a href="https://github.com/Shehabov/Food-website-template" target="_blank" rel="noopener noreferrer">Food</a>, <a href="https://github.com/Shehabov/E-commerce--website" target="_blank" rel="noopener noreferrer">E-commerce</a>, <a href="https://github.com/Shehabov/The-Rose-Website" target="_blank" rel="noopener noreferrer">Rose</a></sub>
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### 🧠 ML & Data
 `2021 - Now`
@@ -139,7 +158,7 @@ Where I got my hands dirty with models.
 <sub>Foundations: <a href="https://github.com/Shehabov/Data-Structures-and-Algorithms-in-Python" target="_blank" rel="noopener noreferrer">DSA in Python</a>, <a href="https://github.com/Shehabov/Algorithms-implementation-in-Dart-programming-language" target="_blank" rel="noopener noreferrer">Algorithms in Dart</a></sub>
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### ⚙️ AI Workflows
 `n8n · 2024 - Now`
@@ -153,26 +172,6 @@ Automations that put AI to work.
 <br>
 
 <b>◔ more shipping soon</b>
-
-</td>
-<td valign="top" width="25%">
-
-### 🤖 AI-Era Live Products
-`2023 - Now`
-
-The next chapter, built AI-native.
-
-<br>
-
-<b>◔ Coming soon</b>
-
-<br>
-
-AI products with the model in the workflow, not bolted on for the demo. Currently building in the field. 🛠️
-
-<br>
-
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer">Get the drop first →</a>
 
 </td>
 </tr>
@@ -208,9 +207,13 @@ AI products with the model in the workflow, not bolted on for the demo. Currentl
 
 <div align="center">
 
-### Let's build something worth deploying. 🚀
+### Bring me your hardest product problem.
 
-<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-3fb950?style=for-the-badge&labelColor=0d1117"></a>
+<sub>30 minutes, no pitch. Worst case, you walk away with free advice.</sub>
+
+<br/><br/>
+
+<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Grab_30_minutes_with_me-3fb950?style=for-the-badge&labelColor=0d1117"></a>
 <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_shehabberam.com-d2a8ff?style=for-the-badge&labelColor=0d1117"></a>
 <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D"></a>
 

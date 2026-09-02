@@ -32,8 +32,9 @@ jobs:
           github_user_name: Shehabov
           outputs: |
             snake_raw.svg?color_snake=%2358a6ff&color_dots=%2321262d,%230e4429,%23006d32,%2326a641,%2339d353
-      - name: Wrap in terminal chrome
+      - name: Speed up + hide the stack bar, then wrap in terminal chrome
         run: |
+          sed -i 's/[0-9]\+ms/5000ms/g; s/\.u{/.u{display:none;/g' snake_raw.svg
           node scripts/wrap_terminal.js snake_raw.svg snake.svg "shehab@fdpm: ~/contributions --snake"
       - name: Commit if changed
         run: |
