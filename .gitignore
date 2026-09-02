@@ -1,2 +1,5 @@
 node_modules/
 .DS_Store
+snake_raw.svg
+isocalendar_raw.svg
+scripts/_preview.js

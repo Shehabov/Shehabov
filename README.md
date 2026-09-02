@@ -37,28 +37,17 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 
 <!-- ░░ REDIRECT BUTTONS ░░ -->
 <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Visit_my_Website-0d1117?style=for-the-badge&labelColor=0d1117&color=d2a8ff" alt="Website"></a>
-<a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Shehab
+## 👋 About
 
-Product person who would rather be in the room where the product is breaking than read about it in a status report later.
-
-```console
-$ shehab --how-i-work
-  the whole arc ..: discovery, strategy, specs, delivery, the ugly trade-offs
-  ai-native ......: LLMs inside the workflow, not bolted on for the demo
-  translator .....: "the customer is annoyed" becomes a roadmap eng can ship
-  metrics-first ..: activation, retention, revenue, the stuff that pays the bills
-  right now ......: shipping 0 to 1, coaching PMs and founders, rewriting a PRD
-
-$ shehab --tldr
-  interim head of product · growth consultant · coach
-  15+ launches · $4M+ generated · 6M+ humans impacted
-```
+<div align="center">
+<img src="./about.svg" alt="About Shehab Beram" width="840">
+</div>
 
 ---
 
@@ -187,10 +176,15 @@ AI products with the model in the workflow, not bolted on for the demo. Currentl
 
 <br/><br/>
 
-<!-- Contribution snake, themed + auto-generated daily by .github/workflows/snake.yml -->
-<img src="./snake.svg" alt="My contribution graph being eaten by a snake" width="840">
+<!-- Contributions: isometric calendar (left) + snake (right), both auto-generated -->
+<table>
+<tr>
+<td valign="top" width="50%"><img src="./isocalendar.svg" alt="Isometric commit calendar" width="100%"></td>
+<td valign="top" width="50%"><img src="./snake.svg" alt="Contribution graph being eaten by a snake" width="100%"></td>
+</tr>
+</table>
 
-<sub>Most of my product work lives off GitHub, so the grid stays calm. The snake refreshes daily.</sub>
+<sub>Most of my product work lives off GitHub, so these stay calm. Both refresh daily.</sub>
 
 </div>
 
@@ -202,7 +196,7 @@ AI products with the model in the workflow, not bolted on for the demo. Currentl
 
 <a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-3fb950?style=for-the-badge&labelColor=0d1117"></a>
 <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_shehabberam.com-d2a8ff?style=for-the-badge&labelColor=0d1117"></a>
-<a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D"></a>
 
 <sub>Terminal and impact card are hand-built animated SVGs, auto refreshed by GitHub Actions.</sub>
 
