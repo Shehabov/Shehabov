@@ -187,7 +187,10 @@ AI products with the model in the workflow, not bolted on for the demo. Currentl
 
 <br/><br/>
 
-<!-- SNAKE_SLOT: enabled once the snake workflow has generated the file -->
+<!-- Contribution snake, themed + auto-generated daily by .github/workflows/snake.yml -->
+<img src="./snake.svg" alt="My contribution graph being eaten by a snake" width="840">
+
+<sub>Most of my product work lives off GitHub, so the grid stays calm. The snake refreshes daily.</sub>
 
 </div>
 
