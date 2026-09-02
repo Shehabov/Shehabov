@@ -33,7 +33,8 @@ jobs:
           outputs: |
             snake_raw.svg?color_snake=%2358a6ff&color_dots=%2321262d,%230e4429,%23006d32,%2326a641,%2339d353
       - name: Wrap in terminal chrome
-        run: node scripts/wrap_terminal.js snake_raw.svg snake.svg "shehab@fdpm: ~/contributions --snake"
+        run: |
+          node scripts/wrap_terminal.js snake_raw.svg snake.svg "shehab@fdpm: ~/contributions --snake"
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
