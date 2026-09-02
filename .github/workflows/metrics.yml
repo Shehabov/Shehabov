@@ -39,7 +39,7 @@ jobs:
           SRC=$(sudo ls /metrics_renders/*.svg | head -1)
           sudo cp "$SRC" ./isocalendar_raw.svg
           sudo chmod a+rw ./isocalendar_raw.svg
-          sed -i 's/#ebedf0/#161b22/g; s/#0366d6/#58a6ff/g; s/color:#777/color:#8b949e/g; s/#24292e/#e6edf3/g' isocalendar_raw.svg
+          sed -i 's/#ebedf0/#0a1f5e/g; s/#9be9a8/#7ff2cf/g; s/#40c463/#21EA9D/g; s/#30a14e/#16b87c/g; s/#216e39/#0f7d54/g; s/#0366d6/#5a9dff/g; s/color:#777/color:#8f9cc4/g; s/#24292e/#eaf1ff/g' isocalendar_raw.svg
           node scripts/wrap_terminal.js isocalendar_raw.svg isocalendar.svg "shehab@fdpm: ~/contributions --calendar"
       - name: Commit if changed
         run: |

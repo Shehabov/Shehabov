@@ -5,27 +5,27 @@
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="838" height="371" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
-  <rect x="1" y="1" width="838" height="42" rx="12" fill="#161b22"/>
-  <rect x="1" y="30" width="838" height="12" fill="#161b22"/>
+  <rect x="1" y="1" width="838" height="371" rx="12" fill="#021449" stroke="#1b3a7a" stroke-width="1.5"/>
+  <rect x="1" y="1" width="838" height="42" rx="12" fill="#0a1f5e"/>
+  <rect x="1" y="30" width="838" height="12" fill="#0a1f5e"/>
   <rect x="1" y="1" width="838" height="371" rx="12" fill="url(#glass)"/>
-  <line x1="1" y1="42" x2="839" y2="42" stroke="#30363d" stroke-width="1"/>
+  <line x1="1" y1="42" x2="839" y2="42" stroke="#1b3a7a" stroke-width="1"/>
   <circle cx="25" cy="21" r="6" fill="#ff5f56"/>
   <circle cx="45" cy="21" r="6" fill="#ffbd2e"/>
-  <circle cx="65" cy="21" r="6" fill="#27c93f"/>
-  <text x="420" y="26" text-anchor="middle" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13">shehab@fdpm: ~/about</text>
+  <circle cx="65" cy="21" r="6" fill="#21EA9D"/>
+  <text x="420" y="26" text-anchor="middle" fill="#8f9cc4" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13">shehab@fdpm: ~/about</text>
   
-  <text x="26" y="76" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#3fb950">shehab</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39c5cf">fdpm</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">shehab --how-i-work</tspan></text>
-  <text x="26" y="101" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#39c5cf">  the whole arc ..: </tspan><tspan fill="#e6edf3">discovery, strategy, specs, delivery, the ugly trade-offs</tspan></text>
-  <text x="26" y="126" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#39c5cf">  ai-native ......: </tspan><tspan fill="#e6edf3">LLMs inside the workflow, not bolted on for the demo</tspan></text>
-  <text x="26" y="151" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#39c5cf">  translator .....: </tspan><tspan fill="#e6edf3">"the customer is annoyed" becomes a roadmap eng can ship</tspan></text>
-  <text x="26" y="176" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#39c5cf">  metrics-first ..: </tspan><tspan fill="#e6edf3">activation, retention, revenue, the stuff that pays the bills</tspan></text>
-  <text x="26" y="201" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#39c5cf">  right now ......: </tspan><tspan fill="#e6edf3">shipping 0 to 1, coaching PMs and founders, rewriting a PRD</tspan></text>
+  <text x="26" y="76" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#21EA9D">shehab</tspan><tspan fill="#8f9cc4">@</tspan><tspan fill="#4fd6e0">fdpm</tspan><tspan fill="#8f9cc4">:</tspan><tspan fill="#5a9dff">~</tspan><tspan fill="#8f9cc4">$ </tspan><tspan fill="#eaf1ff">shehab --how-i-work</tspan></text>
+  <text x="26" y="101" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#4fd6e0">  the whole arc ..: </tspan><tspan fill="#eaf1ff">discovery, strategy, specs, delivery, the ugly trade-offs</tspan></text>
+  <text x="26" y="126" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#4fd6e0">  ai-native ......: </tspan><tspan fill="#eaf1ff">LLMs inside the workflow, not bolted on for the demo</tspan></text>
+  <text x="26" y="151" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#4fd6e0">  translator .....: </tspan><tspan fill="#eaf1ff">"the customer is annoyed" becomes a roadmap eng can ship</tspan></text>
+  <text x="26" y="176" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#4fd6e0">  metrics-first ..: </tspan><tspan fill="#eaf1ff">activation, retention, revenue, the stuff that pays the bills</tspan></text>
+  <text x="26" y="201" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#4fd6e0">  right now ......: </tspan><tspan fill="#eaf1ff">shipping 0 to 1, coaching PMs and founders, rewriting a PRD</tspan></text>
   
-  <text x="26" y="251" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#3fb950">shehab</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39c5cf">fdpm</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">shehab --tldr</tspan></text>
-  <text x="26" y="276" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#e6edf3">  interim head of product </tspan><tspan fill="#8b949e">·</tspan><tspan fill="#e6edf3"> growth consultant </tspan><tspan fill="#8b949e">·</tspan><tspan fill="#e6edf3"> coach</tspan></text>
-  <text x="26" y="301" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#e3b341">  15+ launches </tspan><tspan fill="#8b949e">·</tspan><tspan fill="#e3b341"> $4M+ generated </tspan><tspan fill="#8b949e">·</tspan><tspan fill="#e3b341"> 6M+ humans impacted</tspan></text>
+  <text x="26" y="251" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#21EA9D">shehab</tspan><tspan fill="#8f9cc4">@</tspan><tspan fill="#4fd6e0">fdpm</tspan><tspan fill="#8f9cc4">:</tspan><tspan fill="#5a9dff">~</tspan><tspan fill="#8f9cc4">$ </tspan><tspan fill="#eaf1ff">shehab --tldr</tspan></text>
+  <text x="26" y="276" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#eaf1ff">  interim head of product </tspan><tspan fill="#8f9cc4">·</tspan><tspan fill="#eaf1ff"> growth consultant </tspan><tspan fill="#8f9cc4">·</tspan><tspan fill="#eaf1ff"> coach</tspan></text>
+  <text x="26" y="301" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#ffd166">  15+ launches </tspan><tspan fill="#8f9cc4">·</tspan><tspan fill="#ffd166"> $4M+ generated </tspan><tspan fill="#8f9cc4">·</tspan><tspan fill="#ffd166"> 6M+ humans impacted</tspan></text>
   
-  <text x="26" y="351" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#3fb950">shehab</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#39c5cf">fdpm</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
-  <rect x="148" y="338" width="8" height="15" fill="#e6edf3"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" repeatCount="indefinite"/></rect>
+  <text x="26" y="351" font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace" font-size="13.5" xml:space="preserve"><tspan fill="#21EA9D">shehab</tspan><tspan fill="#8f9cc4">@</tspan><tspan fill="#4fd6e0">fdpm</tspan><tspan fill="#8f9cc4">:</tspan><tspan fill="#5a9dff">~</tspan><tspan fill="#8f9cc4">$ </tspan></text>
+  <rect x="148" y="338" width="8" height="15" fill="#eaf1ff"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.05s" repeatCount="indefinite"/></rect>
 </svg>

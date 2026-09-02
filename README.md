@@ -19,8 +19,8 @@
 I ship product where the customer actually is, not from a spreadsheet three floors away.
 
 <!-- ░░ PRIMARY CTAs ░░ -->
-<a href="https://shehabov.github.io/Shehabov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%96%B6_Launch_the_interactive_terminal-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Launch interactive terminal"></a>
-<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-3fb950?style=for-the-badge&labelColor=0d1117" alt="Book a call"></a>
+<a href="https://shehabov.github.io/Shehabov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%96%B6_Launch_the_interactive_terminal-58a6ff?style=for-the-badge&labelColor=021449" alt="Launch interactive terminal"></a>
+<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-21EA9D?style=for-the-badge&labelColor=021449" alt="Book a call"></a>
 
 <br/><br/>
 
@@ -34,7 +34,7 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 <br/><br/>
 
 <!-- ░░ REDIRECT BUTTONS ░░ -->
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Visit_my_Website-0d1117?style=for-the-badge&labelColor=0d1117&color=d2a8ff" alt="Website"></a>
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Visit_my_Website-021449?style=for-the-badge&labelColor=021449&color=d2a8ff" alt="Website"></a>
 <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
 
 </div>
@@ -92,22 +92,22 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 **🧠 Ways of Working**
 
 <p>
-<img src="https://img.shields.io/badge/Product_Strategy-0d1117?style=for-the-badge&color=3fb950">
-<img src="https://img.shields.io/badge/Product_Discovery-0d1117?style=for-the-badge&color=58a6ff">
-<img src="https://img.shields.io/badge/User_Research-0d1117?style=for-the-badge&color=d2a8ff">
-<img src="https://img.shields.io/badge/Customer_Interviews-0d1117?style=for-the-badge&color=e3b341">
-<img src="https://img.shields.io/badge/Roadmapping-0d1117?style=for-the-badge&color=39c5cf">
-<img src="https://img.shields.io/badge/Prioritization_(RICE)-0d1117?style=for-the-badge&color=ff7b72">
-<img src="https://img.shields.io/badge/PRDs_%26_Specs-0d1117?style=for-the-badge&color=3fb950">
-<img src="https://img.shields.io/badge/Go--to--Market-0d1117?style=for-the-badge&color=58a6ff">
-<img src="https://img.shields.io/badge/A%2FB_Testing-0d1117?style=for-the-badge&color=d2a8ff">
-<img src="https://img.shields.io/badge/Experimentation-0d1117?style=for-the-badge&color=e3b341">
-<img src="https://img.shields.io/badge/North_Star_Metrics-0d1117?style=for-the-badge&color=39c5cf">
-<img src="https://img.shields.io/badge/OKRs-0d1117?style=for-the-badge&color=ff7b72">
-<img src="https://img.shields.io/badge/Competitive_Analysis-0d1117?style=for-the-badge&color=3fb950">
-<img src="https://img.shields.io/badge/Agile_%26_Scrum-0d1117?style=for-the-badge&color=58a6ff">
-<img src="https://img.shields.io/badge/Stakeholder_Mgmt-0d1117?style=for-the-badge&color=d2a8ff">
-<img src="https://img.shields.io/badge/Product_Vision-0d1117?style=for-the-badge&color=e3b341">
+<img src="https://img.shields.io/badge/Product_Strategy-021449?style=for-the-badge&color=21EA9D">
+<img src="https://img.shields.io/badge/Product_Discovery-021449?style=for-the-badge&color=58a6ff">
+<img src="https://img.shields.io/badge/User_Research-021449?style=for-the-badge&color=d2a8ff">
+<img src="https://img.shields.io/badge/Customer_Interviews-021449?style=for-the-badge&color=e3b341">
+<img src="https://img.shields.io/badge/Roadmapping-021449?style=for-the-badge&color=39c5cf">
+<img src="https://img.shields.io/badge/Prioritization_(RICE)-021449?style=for-the-badge&color=ff7b72">
+<img src="https://img.shields.io/badge/PRDs_%26_Specs-021449?style=for-the-badge&color=21EA9D">
+<img src="https://img.shields.io/badge/Go--to--Market-021449?style=for-the-badge&color=58a6ff">
+<img src="https://img.shields.io/badge/A%2FB_Testing-021449?style=for-the-badge&color=d2a8ff">
+<img src="https://img.shields.io/badge/Experimentation-021449?style=for-the-badge&color=e3b341">
+<img src="https://img.shields.io/badge/North_Star_Metrics-021449?style=for-the-badge&color=39c5cf">
+<img src="https://img.shields.io/badge/OKRs-021449?style=for-the-badge&color=ff7b72">
+<img src="https://img.shields.io/badge/Competitive_Analysis-021449?style=for-the-badge&color=21EA9D">
+<img src="https://img.shields.io/badge/Agile_%26_Scrum-021449?style=for-the-badge&color=58a6ff">
+<img src="https://img.shields.io/badge/Stakeholder_Mgmt-021449?style=for-the-badge&color=d2a8ff">
+<img src="https://img.shields.io/badge/Product_Vision-021449?style=for-the-badge&color=e3b341">
 </p>
 
 ---
@@ -122,9 +122,9 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 
 **The next chapter, built AI-native.** Products with the model living inside the workflow, not bolted on for the demo. Heads-down in the field, shipping. 🛠️
 
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%97%94_COMING_SOON-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Coming soon"></a>
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%97%94_COMING_SOON-58a6ff?style=for-the-badge&labelColor=021449" alt="Coming soon"></a>
 &nbsp;
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Get_the_drop_first_%E2%86%92-0d1117?style=for-the-badge&labelColor=0d1117&color=d2a8ff" alt="Get the drop first"></a>
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Get_the_drop_first_%E2%86%92-021449?style=for-the-badge&labelColor=021449&color=d2a8ff" alt="Get the drop first"></a>
 
 </td></tr>
 </table>
@@ -186,6 +186,20 @@ Automations that put AI to work.
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+<sub>want the detail on any of these? query them 👇</sub>
+
+<a href="https://shehabov.github.io/Shehabov/" target="_blank" rel="noopener noreferrer" title="Query my projects in the live terminal">
+  <img src="./projects.svg" alt="Projects terminal: type info <project> to learn about each one" width="840">
+</a>
+
+<sub><a href="https://shehabov.github.io/Shehabov/" target="_blank" rel="noopener noreferrer"><b>▶ open the live terminal</b></a> and type <code>info heartly</code>, <code>info competitor-intel</code>, or <code>projects</code></sub>
+
+</div>
+
 ---
 
 ## 📊 Stats & Signals
@@ -228,8 +242,8 @@ Automations that put AI to work.
 
 <br/>
 
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_shehabberam.com-d2a8ff?style=for-the-badge&labelColor=0d1117"></a>
-<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Grab_30_minutes_with_me-3fb950?style=for-the-badge&labelColor=0d1117"></a>
+<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_shehabberam.com-d2a8ff?style=for-the-badge&labelColor=021449"></a>
+<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Grab_30_minutes_with_me-21EA9D?style=for-the-badge&labelColor=021449"></a>
 <a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D"></a>
 
 </div>

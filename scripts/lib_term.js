@@ -2,10 +2,11 @@
  * lib_term.js · shared "terminal window" chrome so every section on the
  * profile (terminal, about, impact, languages) looks like the same app.
  */
+// Brand palette: deep navy #021449 + mint #21EA9D
 const C = {
-  bg:'#0d1117', bar:'#161b22', border:'#30363d', track:'#21262d',
-  green:'#3fb950', cyan:'#39c5cf', blue:'#58a6ff', gray:'#8b949e',
-  white:'#e6edf3', purple:'#d2a8ff', yellow:'#e3b341', red:'#ff7b72',
+  bg:'#021449', bar:'#0a1f5e', border:'#1b3a7a', track:'#0a1f5e',
+  green:'#21EA9D', cyan:'#4fd6e0', blue:'#5a9dff', gray:'#8f9cc4',
+  white:'#eaf1ff', purple:'#c9a9ff', yellow:'#ffd166', red:'#ff8a80',
 };
 const SANS = "Segoe UI,-apple-system,Helvetica,Arial,sans-serif";
 const MONO = "ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',Menlo,monospace";
@@ -48,7 +49,7 @@ function windowSvg({ W, H, title, command = '', inner = '', promptY = BAR_H + 30
   <line x1="1" y1="${BAR_H}" x2="${W-1}" y2="${BAR_H}" stroke="${C.border}" stroke-width="1"/>
   <circle cx="25" cy="21" r="6" fill="#ff5f56"/>
   <circle cx="45" cy="21" r="6" fill="#ffbd2e"/>
-  <circle cx="65" cy="21" r="6" fill="#27c93f"/>
+  <circle cx="65" cy="21" r="6" fill="#21EA9D"/>
   <text x="${W/2}" y="26" text-anchor="middle" fill="${C.gray}" font-family="${MONO}" font-size="13">${esc(title)}</text>
   ${promptLine}
   ${inner}
