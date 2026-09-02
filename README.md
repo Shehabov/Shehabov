@@ -107,7 +107,7 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### 🚀 Pre-AI Products
 `2018 - 2022`
@@ -123,7 +123,7 @@ Products and apps I designed and shipped.
 <sub>Early web builds: <a href="https://github.com/Shehabov/Netflix-Website" target="_blank" rel="noopener noreferrer">Netflix</a>, <a href="https://github.com/Shehabov/Food-website-template" target="_blank" rel="noopener noreferrer">Food</a>, <a href="https://github.com/Shehabov/E-commerce--website" target="_blank" rel="noopener noreferrer">E-commerce</a>, <a href="https://github.com/Shehabov/The-Rose-Website" target="_blank" rel="noopener noreferrer">Rose</a></sub>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### 🧠 ML & Data
 `2021 - Now`
@@ -139,7 +139,23 @@ Where I got my hands dirty with models.
 <sub>Foundations: <a href="https://github.com/Shehabov/Data-Structures-and-Algorithms-in-Python" target="_blank" rel="noopener noreferrer">DSA in Python</a>, <a href="https://github.com/Shehabov/Algorithms-implementation-in-Dart-programming-language" target="_blank" rel="noopener noreferrer">Algorithms in Dart</a></sub>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
+
+### ⚙️ AI Workflows
+`n8n · 2024 - Now`
+
+Automations that put AI to work.
+
+<a href="https://github.com/Shehabov/competitor-intelligence-n8n" target="_blank" rel="noopener noreferrer">Competitor Intelligence</a>
+
+<sub>Scrapes each competitor's site, LinkedIn, X, App Store and Capterra via Apify, analyzes with OpenAI, then emails a Google Doc + PDF. Weekly, on autopilot.</sub>
+
+<br>
+
+<b>◔ more shipping soon</b>
+
+</td>
+<td valign="top" width="25%">
 
 ### 🤖 AI-Era Live Products
 `2023 - Now`
