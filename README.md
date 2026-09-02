@@ -235,7 +235,7 @@ Automations that put AI to work.
 <sub>30 minutes, no pitch. Worst case, you walk away with free advice.</sub>
 
 <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer" title="See the full story on shehabberam.com">
-  <img src="./assets/website-hero.png" alt="Building Impactful Digital Products, see more at shehabberam.com" width="720">
+  <img src="./assets/website-hero.png" alt="Shehab Beram, Product Leader. See the full story at shehabberam.com" width="760">
 </a>
 
 <sub>👆 the whole story, services, and results live on <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><b>shehabberam.com</b></a></sub>
