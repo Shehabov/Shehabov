@@ -177,7 +177,12 @@ AI products with the model in the workflow, not bolted on for the demo. Currentl
 
 <br/><br/>
 
-<!-- ISOCALENDAR_SLOT: enabled once the metrics workflow has generated the file -->
+#### 🧑‍💻 GitHub coding activity
+
+<!-- Isometric commit calendar, auto-generated daily by lowlighter/metrics (.github/workflows/metrics.yml) -->
+<img src="./metrics.isocalendar.svg" alt="Isometric commit calendar" width="560">
+
+<sub>Most of my product work lives off GitHub, so this stays quiet. It updates itself daily.</sub>
 
 </div>
 
