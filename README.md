@@ -18,9 +18,8 @@
 
 I ship product where the customer actually is, not from a spreadsheet three floors away.
 
-<!-- ░░ PRIMARY CTAs ░░ -->
+<!-- ░░ PRIMARY CTA ░░ -->
 <a href="https://shehabov.github.io/Shehabov/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%96%B6_Launch_the_interactive_terminal-58a6ff?style=for-the-badge&labelColor=021449" alt="Launch interactive terminal"></a>
-<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Product_Call-21EA9D?style=for-the-badge&labelColor=021449" alt="Book a call"></a>
 
 <br/><br/>
 
@@ -30,12 +29,6 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 <img src="https://img.shields.io/badge/Product_launches-15%2B-d2a8ff?style=for-the-badge" alt="Product launches">
 <img src="https://img.shields.io/badge/Users_impacted-6M%2B-e3b341?style=for-the-badge" alt="Users impacted">
 <img src="https://img.shields.io/badge/PMs_coached-100%2B-ff7b72?style=for-the-badge" alt="PMs coached">
-
-<br/><br/>
-
-<!-- ░░ REDIRECT BUTTONS ░░ -->
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Visit_my_Website-021449?style=for-the-badge&labelColor=021449&color=d2a8ff" alt="Website"></a>
-<a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
 
 </div>
 
@@ -230,9 +223,9 @@ Automations that put AI to work.
 
 <div align="center">
 
-### Bring me your hardest product problem.
+## 🤝 Connect with me
 
-<sub>30 minutes, no pitch. Worst case, you walk away with free advice.</sub>
+<sub><b>Bring me your hardest product problem.</b> 30 minutes, no pitch. Worst case, you walk away with free advice. Pick whatever channel is easiest, I actually reply.</sub>
 
 <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer" title="See the full story on shehabberam.com">
   <img src="./assets/website-hero.png" alt="Shehab Beram, Product Leader. See the full story at shehabberam.com" width="760">
@@ -240,10 +233,12 @@ Automations that put AI to work.
 
 <sub>👆 the whole story, services, and results live on <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><b>shehabberam.com</b></a></sub>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Explore_shehabberam.com-d2a8ff?style=for-the-badge&labelColor=021449"></a>
-<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Grab_30_minutes_with_me-21EA9D?style=for-the-badge&labelColor=021449"></a>
-<a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D"></a>
+<a href="https://app.onecal.io/b/shehab-beram/30-minutes-of-product-with-shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%85_Book_a_1:1_Call-21EA9D?style=for-the-badge&labelColor=021449" alt="Book a 1:1 call"></a>
+<a href="https://wa.me/905516893871?text=Hi%20Shehab%2C%20I%20found%20you%20on%20GitHub%20and%20wanted%20to%20connect." target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.linkedin.com/in/shehab-beram/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shehabberam20@gmail.com&su=Hi%20Shehab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:shehabberam@hotmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-0078D4?style=for-the-badge&labelColor=021449" alt="Email"></a>
 
 </div>
