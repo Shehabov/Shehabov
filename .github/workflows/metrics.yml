@@ -35,6 +35,10 @@ jobs:
           plugin_isocalendar_duration: full-year
       - name: Darken to match theme, then wrap in terminal chrome
         run: |
+          echo "metrics_renders:"; sudo ls -la /metrics_renders/ || true
+          SRC=$(sudo ls /metrics_renders/*.svg | head -1)
+          sudo cp "$SRC" ./isocalendar_raw.svg
+          sudo chmod a+rw ./isocalendar_raw.svg
           sed -i 's/#ebedf0/#161b22/g; s/#0366d6/#58a6ff/g; s/color:#777/color:#8b949e/g; s/#24292e/#e6edf3/g' isocalendar_raw.svg
           node scripts/wrap_terminal.js isocalendar_raw.svg isocalendar.svg "shehab@fdpm: ~/contributions --calendar"
       - name: Commit if changed
