@@ -179,15 +179,15 @@ Automations that put AI to work.
 ### 🧩 Claude Skills
 `2025 - Now`
 
-Custom skills that extend Claude with my own workflows and taste.
+Packaged skills that extend Claude with my workflows.
+
+<a href="https://github.com/Shehabov/pm-resume-builder-skill" target="_blank" rel="noopener noreferrer">PM Resume Builder</a>
+
+<sub>Reads your old CV, asks the right questions, and ships an ATS-guaranteed product-manager resume in one of 5 templates.</sub>
 
 <br>
 
-<b>◔ first skill shipping soon</b>
-
-<br>
-
-<sub>Packaged, reusable Claude skills. The first one drops here shortly. 🛠️</sub>
+<b>◔ more shipping soon</b>
 
 </td>
 </tr>
