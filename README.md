@@ -126,7 +126,7 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### 🚀 Pre-AI Products
 `2018 - 2022`
@@ -142,7 +142,7 @@ Products and apps I designed and shipped.
 <sub>Early web builds: <a href="https://github.com/Shehabov/Netflix-Website" target="_blank" rel="noopener noreferrer">Netflix</a>, <a href="https://github.com/Shehabov/Food-website-template" target="_blank" rel="noopener noreferrer">Food</a>, <a href="https://github.com/Shehabov/E-commerce--website" target="_blank" rel="noopener noreferrer">E-commerce</a>, <a href="https://github.com/Shehabov/The-Rose-Website" target="_blank" rel="noopener noreferrer">Rose</a></sub>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### 🧠 ML & Data
 `2021 - Now`
@@ -158,7 +158,7 @@ Where I got my hands dirty with models.
 <sub>Foundations: <a href="https://github.com/Shehabov/Data-Structures-and-Algorithms-in-Python" target="_blank" rel="noopener noreferrer">DSA in Python</a>, <a href="https://github.com/Shehabov/Algorithms-implementation-in-Dart-programming-language" target="_blank" rel="noopener noreferrer">Algorithms in Dart</a></sub>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### ⚙️ AI Workflows
 `n8n · 2024 - Now`
@@ -172,6 +172,22 @@ Automations that put AI to work.
 <br>
 
 <b>◔ more shipping soon</b>
+
+</td>
+<td valign="top" width="25%">
+
+### 🧩 Claude Skills
+`2025 - Now`
+
+Custom skills that extend Claude with my own workflows and taste.
+
+<br>
+
+<b>◔ first skill shipping soon</b>
+
+<br>
+
+<sub>Packaged, reusable Claude skills. The first one drops here shortly. 🛠️</sub>
 
 </td>
 </tr>
