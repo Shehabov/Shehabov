@@ -167,12 +167,6 @@ Automations that put AI to work.
 
 <a href="https://github.com/Shehabov/competitor-intelligence-n8n" target="_blank" rel="noopener noreferrer">Competitor Intelligence</a>
 
-<sub>Scrapes each competitor's site, LinkedIn, X, App Store and Capterra via Apify, analyzes with OpenAI, then emails a Google Doc + PDF. Weekly, on autopilot.</sub>
-
-<br>
-
-<b>◔ more shipping soon</b>
-
 </td>
 <td valign="top" width="25%">
 
