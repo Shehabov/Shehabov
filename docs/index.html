@@ -89,6 +89,7 @@ const PROJECTS={
   "breast-cancer":["Breast Cancer Detection","YOLOv8 detection model","ML & data · 2021-now","https://github.com/Shehabov/Breast-Cancer-Detection"],
   sentiment:["Review Sentiment Analysis","NLP on restaurant reviews","ML & data · 2021-now","https://github.com/Shehabov/Resaurant-Review-Sentiment-Analysis"],
   "competitor-intel":["Competitor Intelligence","weekly AI competitor reports on n8n: Apify scrapers + OpenAI, delivered as a Google Doc + PDF by email","AI workflows · 2024-now","https://github.com/Shehabov/competitor-intelligence-n8n"],
+  actio:["Actio","the accountability layer for engagement and culture surveys: routes employee feedback to whoever can actually fix it, and won't let it close without proof. A Lumofy product. v1 spec is live, the product is in build","AI-era · 2023-now","https://github.com/Shehabov/actio"],
   "pm-resume":["PM Resume Builder","a Claude Skill that reads your old CV, asks the right questions, and ships an ATS-guaranteed product-manager resume in one of 5 templates","Claude skills · 2025-now","https://github.com/Shehabov/pm-resume-builder-skill"],
 };
 
@@ -255,7 +256,9 @@ const COMMANDS={
   },
   products(){
     el('<span class="grn">AI-era live products</span>');
-    el('  <span class="yel">◔ coming soon</span> <span class="muted">· currently building in the field.</span>');
+    el('  <span class="grn">▸ </span><span class="pur">Actio</span> <span class="muted">· the accountability layer for engagement and culture surveys</span>');
+    el('  '+A('https://github.com/Shehabov/actio','github.com/Shehabov/actio')+' <span class="muted">· v1 spec live, product in build</span>');
+    el('  <span class="yel">◔ more coming soon</span> <span class="muted">· currently building in the field.</span>');
     el('  <span class="muted">AI-native products that put the model in the workflow,</span>');
     el('  <span class="muted">not bolted on as an afterthought. Watch this space.</span>');
     el('  '+A(WEBSITE,'→ get the drop on shehabberam.com'));

@@ -113,6 +113,12 @@ I ship product where the customer actually is, not from a spreadsheet three floo
 
 **The next chapter, built AI-native.** Products with the model living inside the workflow, not bolted on for the demo. Heads-down in the field, shipping. 🛠️
 
+<a href="https://github.com/Shehabov/actio" target="_blank" rel="noopener noreferrer"><b>Actio</b></a> · the accountability layer for engagement and culture surveys
+
+<sub>Routes employee feedback to whoever can actually fix it, and won't let it close without proof. A Lumofy product.<br>Version 1 spec is live, the product is in build.</sub>
+
+<a href="https://github.com/Shehabov/actio" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Actio_·_v1-017E85?style=for-the-badge&labelColor=0C0C0C" alt="Actio v1"></a>
+&nbsp;
 <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%97%94_COMING_SOON-58a6ff?style=for-the-badge&labelColor=021449" alt="Coming soon"></a>
 &nbsp;
 <a href="https://www.shehabberam.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Get_the_drop_first_%E2%86%92-021449?style=for-the-badge&labelColor=021449&color=d2a8ff" alt="Get the drop first"></a>
