@@ -167,11 +167,12 @@ Where I got my hands dirty with models.
 <td valign="top" width="25%">
 
 ### ⚙️ AI Workflows
-`n8n · 2024 - Now`
+`n8n · Claude Code · 2024 - Now`
 
-Automations that put AI to work.
+Automations and agent crews that put AI to work.
 
-<a href="https://github.com/Shehabov/competitor-intelligence-n8n" target="_blank" rel="noopener noreferrer">Competitor Intelligence</a>
+<a href="https://github.com/Shehabov/ai-dev-crew" target="_blank" rel="noopener noreferrer">AI Dev Crew</a> ⭐ 16 Claude Code agents
+<br><a href="https://github.com/Shehabov/competitor-intelligence-n8n" target="_blank" rel="noopener noreferrer">Competitor Intelligence</a>
 
 </td>
 <td valign="top" width="25%">
